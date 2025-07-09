@@ -1,5 +1,14 @@
 {
-    "users": [],
+    "users": [
+       {
+        "id": 1,
+        "name": "Aylin Mammadova",
+        "username": "aylin_m",
+        "email": "aylin.mammadova@example.com",
+        "phone": "+994-50-123-4567",
+        "createdAt": "2025-07-09T21:15:00Z"
+       },
+    ],
     "movies": [
         {
             "id": "6809f2e687f15d5253eeea86",
