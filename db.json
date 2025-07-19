@@ -1,1802 +1,1702 @@
-[
-  {
-    "id": "1",
-
-    "title": "Quiet artistic nook near river",
-    "type": "Room in condo",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Paris",
-      "country": "France",
-      "district": "Latin Quarter heritage lane"
-    },
-    "host": {
-      "name": "Carole",
-      "isSuperhost": true,
-      "yearsHosting": 6
-    },
-    "roomDetails": {
-      "bedType": "1 single bed",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Dedicated workspace",
-        "Free washer – In unit",
-        "Free dryer – In unit",
-        "Bathtub",
-        "Indoor fireplace: wood-burning",
-        "Luggage dropoff allowed"
-      ],
-      "unavailable": ["Lock on bedroom door", "Carbon monoxide alarm"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Top 10% of homes"],
-    "propertyType": "Condo",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-11" },
-    "rating": { "score": 4.93, "reviewsCount": 520 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 200,
-      "currency": "USD",
-      "nights": 2,
-      "nightlyRate": 100
-    },
-    "stayDates": { "check_in": "2025-12-12", "check_out": "2025-12-14" },
-    "guestCount": 1,
-    "interaction": "Host quickly reachable for any help",
-    "images": [
-      "https://example.com/img/1a.jpg",
-      "https://example.com/img/1b.jpg",
-      "https://example.com/img/1c.jpg"
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Aylin Mammadova",
+            "username": "aylin_m",
+            "email": "aylin.mammadova@example.com",
+            "phone": "+994-50-123-4567",
+            "createdAt": "2025-07-09T21:15:00Z"
+        }
+    ],
+    "movies": [
+        {
+            "id": "6809f2e687f15d5253eeea86",
+            "name": "Patrul",
+            "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+            "iticketLink": null,
+            "country": "Qazaxıstan",
+            "director": "Rustem Omarov",
+            "actors": [
+                "Renat Muhambayev",
+                "Tambi Masayev",
+                "Imanbek",
+                "Adilcan Şombalov"
+            ],
+            "genres": [
+                {
+                    "id": "67729bcbbf13b4256e98c0ff",
+                    "title": "Komediya"
+                }
+            ],
+            "movieId": 0,
+            "duration": 110,
+            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIXTEEN",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://kinogo.media/uploads/posts/2021-12/1639767999_poster.jpg",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "680a15e087f15d5253eef85c",
+            "name": "Sörfçü",
+            "description": "Birləşmiş Ştatlarda bir neçə il yaşadıqdan sonra bir kişi doğma Avstraliya sahil şəhərinə qayıdır. Bir gün yeniyetmə oğlu ilə birlikdə sörf etməyə gedir, lakin orada sörfçülərdən ibarət bir dəstə ilə qarşıdurma yaşayır. Kişi bu dəstə ilə amansız bir mübarizəyə girir.",
+            "iticketLink": null,
+            "country": "Avstraliya",
+            "director": "Lorkan Finneqan",
+            "actors": [
+                "Nikolas Keyc",
+                "Finn Littl"
+            ],
+            "genres": [
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 110,
+            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "EIGHTEEN",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://images.fandango.com/ImageRenderer/0/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/240286/The_Surfer_key_art_f1fc16457d.jpg",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "",
+            "youtubeUrl": "https://www.youtube.com/watch?v=-dAyNx8_c0o",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ef93646f500c02f5d91a56",
+            "name": "Marakuda",
+            "description": "Başçının oğlu Marakuda əsl döyüşçü olmalı idi, lakin o, ov etməyi bacarmırdı və atasını məyus edirdi. Marakuda təkbaşına meşəyə yollanır və orada müqəddəs Tink quşunu tapır. Tink ona heyvanlar və quşların dilini anlama qabiliyyəti bəxş edir. Marakuda və Tink şərəflə kəndə qayıdırlar. Lakin oğlan bilmir ki, ənənəyə görə müqəddəs quş tayfanın rifahı üçün qurban verilməlidir.",
+            "iticketLink": null,
+            "country": "Rusiya",
+            "director": "Viktor Qluxuşin",
+            "actors": [
+                "Proxor Çexovskoy",
+                "Eliza Martirosova"
+            ],
+            "genres": [
+                {
+                    "id": "67ef925f6f500c02f5d91a21",
+                    "title": "Cizgi filmi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIX",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://m.media-amazon.com/images/M/MV5BZjRmYjAxNmYtZjljMi00MmI4LWIyYzMtNjljYWFjOWMxNzg1XkEyXkFqcGc@._V1_.jpg",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1743754057626____.____1_.mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=SqI5s9FpyDY",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ef8e906f500c02f5d9181f",
+            "name": "İldırımsaçanlar",
+            "description": "Antiqəhrəmanlardan ibarət bir komanda hökumətin əmri ilə tapşırıqlara yollanır.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Ceyk Şreyer",
+            "actors": [
+                "Florens Pyu",
+                "Devid Harbor",
+                "Sebastyan Sten",
+                "Culiya Lui-Dreyfus",
+                "Reyçel Vays",
+                "Olqa Kurilenko"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Fantastika"
+                },
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Döyüş"
+                }
+            ],
+            "movieId": 0,
+            "duration": 130,
+            "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIXTEEN",
+            "languages": [
+                "EN",
+                "TR",
+                "RU"
+            ],
+            "image": "https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743752739941_Screenshot_2025-04-04_114526.png&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1743752838623_______(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=zSpYWxX4JdY&t=3s",
+            "active": true,
+            "preSale": true
+        },
+        {
+            "id": "67ed0f94d596ba0a67b56dd4",
+            "name": "Tağıyev: Çar",
+            "description": "1888-ci ilin payızında bütün Bakı Çar III Aleksandrın səfərinə hazırlaşır. Artıq milyonçu olmuş, Bakı Şəhər Dumasının üzvü seçilmiş Hacı Zeynalabdin Tağıyev cəmiyyətdə nüfuz və status uğrunda mübarizə aparır. Şəhər meri Orlovski mövqeyindən istifadə edərək özünə qəsd etmiş Teymurbəyovun neft sahəsini ələ keçirməyə çalışır. Eyni zamanda Hacının böyük oğlu İsmayıl generalın qızı Nurcahan Ərəblinski ilə tanış olur və onunla evlənməyi planlaşdırır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Zaur Qasımlı",
+            "actors": [
+                "Pərviz Məmmədrzayev  Qurban İsmayılov Rasim Cəfər Sənan Əlləz"
+            ],
+            "genres": [
+                {
+                    "id": "67ef8f266f500c02f5d9189f",
+                    "title": "Tarixi"
+                },
+                {
+                    "id": "67ef8ed76f500c02f5d9184a",
+                    "title": "Bioqrafik"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-02T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "TWELVE",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://cinemastercard.az/site/assets/files/0/35/93/453/tagiyev-2-700x1000.350x0.jpg",
+            "subtitles": [],
+            "trailerUrl": "1743589241135_Tagyev_film___2-ci_hiss__Car___Treyler.mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=T2DO2juNRMo",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d0036683e3785bb4f16eac",
+            "name": "Minecraft kinoda",
+            "description": "Dörd autsayder sirli portal vasitəsilə qəribə kubik Möcüzələr ölkəsinə düşür. Evə qayıtmaq üçün onlar sehrli bir kvestdən keçməli və ustad Stiv adlı birisi ilə birlikdə işləməlidirlər.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Cared Hess",
+            "actors": [
+                "Cek Blek Cennifer Kulic Keyt MakKinnon Ceyson Momoa"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Fantastika"
+                },
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Döyüş"
+                },
+                {
+                    "id": "67729bcbbf13b4256e98c0ff",
+                    "title": "Komediya"
+                },
+                {
+                    "id": "67729c65bf13b4256e98c26c",
+                    "title": "Ailəvi"
+                }
+            ],
+            "movieId": 0,
+            "duration": 110,
+            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIX",
+            "languages": [
+                "TR",
+                "EN",
+                "RU"
+            ],
+            "image": "https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1741685463041_Screenshot_2025-03-10_222420.png&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1741685595067_Minecraft______2_(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=VsJlmio8A2g",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ed119ed596ba0a67b56dd6",
+            "name": "Bəlkə də",
+            "description": "Yaxınlarını itirmiş iki insanın qəfil tanışlığı və zaman maşını ilə keçmişə qayıtmaq arzusu üzərində qurulan elmi-fantastik hekayədir. İxtiraçı atasına verdiyi sözü, Mələk isə nişanlısını xilas etmək istəyir. Amma zaman maşınını hazırlamağa yaxın olduqca, onları gözlənilməz hadisələr və o dünyadan gələn ruhlar narahat etməyə başlayır. Və əsl çətinlik bundan sonra başlayır...\n\n",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "Taleh Yüzbəyov",
+            "actors": [
+                "Taleh Yüzbəyov",
+                "İranə Kərimova",
+                "Əli Əlizadə",
+                "Nurlan Rüstəmov",
+                "Günay Əhməd",
+                "Əlixan Rəcəbov"
+            ],
+            "genres": [
+                {
+                    "id": "67693af4c8bf5553b2cd258e",
+                    "title": "Fantastika"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIXTEEN",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743589618259_Screenshot_2025-03-22_194535.png&w=1080&q=75",
+            "subtitles": [],
+            "trailerUrl": "1743589757362_Blk_d...___RSMI_TREYLER.mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=n8KySm_cQKw",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef8b076f500c02f5d916d7",
+            "name": "Qisas 2",
+            "description": "Xəzinədarlıq agenti Meribeth Medina keçmiş rəhbərinin qatillərini tapmağa çalışır. Qadın dahiyanə riyaziyyatçı və killer bacarıqları olan Kristian Vulfa müraciət edir. Kris qardaşı Brax ilə birləşir və tədricən bu çətin tapmacanın bütün hissələrini bir yerə toplamağa başlayır. Üçlük həqiqətə yaxınlaşdıqca, onları dayandırmaq istəyən amansız qatillərin diqqətini daha çox cəlb edirlər.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Gevin O'Konnor",
+            "actors": [
+                "Con Bernthal",
+                "Ben Afflek",
+                "J.K. Simmons"
+            ],
+            "genres": [
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Döyüş"
+                },
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Trillerlər"
+                },
+                {
+                    "id": "67ef8f746f500c02f5d9190b",
+                    "title": "Kriminal"
+                }
+            ],
+            "movieId": 0,
+            "duration": 140,
+            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "EIGHTEEN",
+            "languages": [
+                "EN",
+                "RU"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEOm6rlvo2q47yVGGIYlF8GqsHt-T6VXAnDw&s",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1743751924427__2____(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=jc35np7VT-Q",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef8c7e6f500c02f5d91718",
+            "name": "DOĞMA TORPAQ",
+            "description": "1992-ci il. Müstəqil Azərbaycan Qarabağda separatçılara qarşı mübarizə aparır. Jurnalist Miranda Qafqaz bəbiri haqqında sənədli film çəkmək üçün Londondan Azərbaycana gəlir. Tale onu kəşfiyyatçı Emillə bir araya gətirir. Onlar birlikdə çətin sınaqlardan keçirlər, bu sınaqlar zamanı Miranda Qafqaz bəbiri və Azərbaycanın müasir tarixinin faciəli səhifələri haqqında çox şey öyrənir.\n\n",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "İlqar Safat",
+            "actors": [
+                "Alina Vorontsova",
+                "Rüstəm Cəbrayılov"
+            ],
+            "genres": [
+                {
+                    "id": "67ef8ea96f500c02f5d91829",
+                    "title": "Drama"
+                }
+            ],
+            "movieId": 0,
+            "duration": 140,
+            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "EIGHTEEN",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://admin.culture.gov.az/storage/uploads/news/coverImages/az/FAJQoP5kHbTXAWocVpEz1744805736.jpg",
+            "subtitles": [],
+            "trailerUrl": "1743752285394__MOTHERLAND__by_ILgar_Safat.mp4",
+            "youtubeUrl": "https://youtu.be/TMNRCjRskNI?si=TYitD478bGWdEPsf",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d009c583e3785bb4f16eaf",
+            "name": "Həvəskar",
+            "description": "Çarlz Heller — həyat yoldaşı Londonda terror aktı zamanı həlak olmuş Mərkəzi Kəşfiyyat İdarəsinin (MKİ) kriptoqrafıdır. Lakin rəhbərliyi istintaqı ləngitdiyinə görə, Heller terrorçuları özü axtarmağa qərar verir. Lazımi bacarıqları olmadığı üçün o, agentliyi şantaj edərək xüsusi təlimə göndərilməsini tələb edir.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Ceyms Houz",
+            "actors": [
+                "Rami Malek Lourens Fișborn"
+            ],
+            "genres": [
+                {
+                    "id": "67693b21c8bf5553b2cd258f",
+                    "title": "Döyüş"
+                },
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 130,
+            "firstScreeningDate": "2025-04-10T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-10T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIXTEEN",
+            "languages": [
+                "RU",
+                "EN"
+            ],
+            "image": "https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1741687202420_Screenshot_2025-03-10_223056.png&w=1080&q=75",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1741687226160_____(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=xWVN2FlYASc&t=2s",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67d008c283e3785bb4f16eae",
+            "name": "Drop",
+            "description": "Dul Vaylet uzun illərdən sonra ilk görüşünə gedir və bir az həyəcanlanır. Lakin ən bədbin gözləntilərə baxmayaraq, əvvəlcə hər şey əla gedir. Hətta onun yoldaşı Henri də olduqca xoş və maraqlı söhbət yoldaşı çıxır. Ancaq qəfildən qadının telefonuna anonim mesajlar gəlməyə başlayır.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Kristofer Landon",
+            "actors": [
+                "Brendon Sklenar Megan Feyhi"
+            ],
+            "genres": [
+                {
+                    "id": "67729bf2bf13b4256e98c15c",
+                    "title": "Trillerlər"
+                }
+            ],
+            "movieId": 0,
+            "duration": 110,
+            "firstScreeningDate": "2025-04-10T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-10T00:00:00.000+04:00",
+            "year": 2025,
+            "ageLimit": "SIXTEEN",
+            "languages": [
+                "RU"
+            ],
+            "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Drop_Poster.jpg",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1741686966399_____(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=xRQ7t0mkAi0",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ed1dfbd596ba0a67b56de5",
+            "name": "Hozu 007",
+            "description": "Partidən qızın qəfil animatorlar tərəfindən qaçırılması hər şeyi hərəkətə gətirir və hamı panikaya düşür. Sərvət dünyanın ən yaxşı agentlərini toplayaraq qızın axtarışına başlayır. Bu zaman təsadüfən hadisələrin içinə düşən sadə kənd adamı Hozu da özünü \"007 agenti\" kimi xəyal edərək, peşəkarlarla birlikdə qızın axtarışına çıxır. Hozunun sadəlövhlüyü və Sərvətin ciddi dünyası arasında yaranan bu kontrast hekayəyə maraqlı bir gülüş və macəra qatır.",
+            "iticketLink": null,
+            "country": "Azərbaycan",
+            "director": "İlham Yaşaroğlu",
+            "actors": [
+                "Məcid Hüseynov Mark Kim Aqil M. Quliyev"
+            ],
+            "genres": [
+                {
+                    "id": "67729bcbbf13b4256e98c0ff",
+                    "title": "Komediya"
+                }
+            ],
+            "movieId": 0,
+            "duration": 90,
+            "firstScreeningDate": "2025-04-03T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-03T00:00:00.000+04:00",
+            "year": 2024,
+            "ageLimit": "SIX",
+            "languages": [
+                "AZ"
+            ],
+            "image": "https://new.parkcinema.az/_next/image?url=https%3A%2F%2Fnew.parkcinema.az%2Fapi%2Ffile%2FgetFile%2F1743592769920__WhatsApp_2025-04-02__15.07.01_a0d22d49.jpg&w=1080&q=75",
+            "subtitles": [],
+            "trailerUrl": "1743592929405_Hozu_007_Kinokomediyas_-_Rsmi_Trailer_2024.mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=KEISWrp-75U",
+            "active": true,
+            "preSale": false
+        },
+        {
+            "id": "67ef91956f500c02f5d919d8",
+            "name": "Sübhə Qədər",
+            "description": "Bir il keçib ki, Kloverin bacısı Melani sirli şəraitdə yoxa çıxıb. Cavab tapmaq üçün o, dostları ilə birlikdə axtarışa çıxır. Tərk edilmiş bir mərkəzi araşdırarkən, onlar maskalı bir qatil ilə qarşılaşırlar.\n\nDostları bir-bir ölür, lakin eyni axşamın əvvəlində yenidən oyanırlar və hər şeyi təkrar yaşayırlar. Zaman döngəsində ilişib qalan dostlar kabusu dəfələrlə yaşamalı olurlar. Hər dəfə təkrarlandıqca təhlükə daha dəhşətli olur. Ümid azalır və onlar başa düşürlər ki, xilas olmaq üçün yeganə yolları sübhə qədər yaşamaqdır.",
+            "iticketLink": null,
+            "country": "Amerika Birləşmiş Ştatları",
+            "director": "Devid F. Sandberq",
+            "actors": [
+                "Ella Rubin ",
+                " Odessa Ezion",
+                "Maykl Çimino",
+                "Yu Ci-yon",
+                "Belmont Kameli"
+            ],
+            "genres": [
+                {
+                    "id": "67719f3a250ee22dac939c7c",
+                    "title": "Dəhşət"
+                }
+            ],
+            "movieId": 0,
+            "duration": 110,
+            "firstScreeningDate": "2025-04-24T00:00:00.000+04:00",
+            "lastScreeningDate": "2026-04-24T00:00:00.000+04:00",
+            "year": 2024,
+            "ageLimit": "EIGHTEEN",
+            "languages": [
+                "EN",
+                "TR",
+                "RU"
+            ],
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLVH6Sf4JsD-8L7MLkm_MFOTQiOeH0pxGhUg&s",
+            "subtitles": [
+                "AZ"
+            ],
+            "trailerUrl": "1743753612536_______(,_2025).mp4",
+            "youtubeUrl": "https://www.youtube.com/watch?v=pJiGegq9pm4",
+            "active": true,
+            "preSale": false
+        }
+    ],
+    "theatre": [
+        {
+            "id": "681008b26ea7da518619ee32",
+            "sessionId": 191438,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:01:06.680+00:00",
+                    "updatedDate": "2025-04-28T23:01:06.680+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008b26ea7da518619ee31",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:30:06.775+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.783+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c94e2f004915fa0f0399",
+                            "title": "VIP онлайн",
+                            "discountCode": 18,
+                            "discountValue": 17,
+                            "discountType": "DOUBLE",
+                            "max": 5,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "00:20",
+            "calendarDate": "2025-05-02T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67f77b727fbe427fd53beffc",
+            "hallTitle": "Zal: 4",
+            "theatreId": "675aea152acad3103ea749e6",
+            "theatreTitle": "Flame Towers",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008a46ea7da518619ecfe",
+            "sessionId": 298645,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:00:52.059+00:00",
+                    "updatedDate": "2025-04-28T23:00:52.059+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008a46ea7da518619ecfd",
+                    "priceId": 7,
+                    "ticketId": 21,
+                    "name": "стандарт",
+                    "price": 5,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:32.016+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b3",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 4,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:32.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 5,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "09:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67fcb0fa87f15d5253ec4c9b",
+            "hallTitle": "Zal: 2",
+            "theatreId": "675aea0a2acad3103ea740db",
+            "theatreTitle": "Park Bulvar",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008ed6ea7da518619f306",
+            "sessionId": 199007,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:02:05.732+00:00",
+                    "updatedDate": "2025-04-28T23:02:05.732+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008ed6ea7da518619f305",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 5,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:32.016+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b3",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 4,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:32.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 5,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "11:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "678761f1a6c6f668e693ef92",
+            "hallTitle": "Zal: 5",
+            "theatreId": "675aea102acad3103ea74531",
+            "theatreTitle": "Metro Park",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008a46ea7da518619ed0c",
+            "sessionId": 298647,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:00:52.651+00:00",
+                    "updatedDate": "2025-04-28T23:00:52.651+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008a46ea7da518619ed0b",
+                    "priceId": 7,
+                    "ticketId": 21,
+                    "name": "стандарт",
+                    "price": 5,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:32.016+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.474+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b3",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 4,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:32.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:57.865+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92c2f004915fa0f02b5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 5,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "13:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67fcb0fa87f15d5253ec4c9b",
+            "hallTitle": "Zal: 2",
+            "theatreId": "675aea0a2acad3103ea740db",
+            "theatreTitle": "Park Bulvar",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008ee6ea7da518619f312",
+            "sessionId": 199009,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:02:06.496+00:00",
+                    "updatedDate": "2025-04-28T23:02:06.496+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008ee6ea7da518619f311",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "15:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "678761f1a6c6f668e693ef92",
+            "hallTitle": "Zal: 5",
+            "theatreId": "675aea102acad3103ea74531",
+            "theatreTitle": "Metro Park",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008a56ea7da518619ed16",
+            "sessionId": 298649,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:00:53.215+00:00",
+                    "updatedDate": "2025-04-28T23:00:53.215+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008a56ea7da518619ed15",
+                    "priceId": 7,
+                    "ticketId": 21,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "17:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67fcb0fa87f15d5253ec4c9b",
+            "hallTitle": "Zal: 2",
+            "theatreId": "675aea0a2acad3103ea740db",
+            "theatreTitle": "Park Bulvar",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008d16ea7da518619f0c8",
+            "sessionId": 98319,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:01:37.105+00:00",
+                    "updatedDate": "2025-04-28T23:01:37.105+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008d16ea7da518619f0c7",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "Standart",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "19:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "AZ",
+            "subtitle": "NONE",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67bf1a73f08ff82cfff0aa35",
+            "hallTitle": "Zal: 4",
+            "theatreId": "675aea192acad3103ea74e2e",
+            "theatreTitle": "Sevinc Mall",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008ef6ea7da518619f31e",
+            "sessionId": 199011,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:02:07.253+00:00",
+                    "updatedDate": "2025-04-28T23:02:07.253+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008ef6ea7da518619f31d",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "19:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "678761f1a6c6f668e693ef92",
+            "hallTitle": "Zal: 5",
+            "theatreId": "675aea102acad3103ea74531",
+            "theatreTitle": "Metro Park",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008a56ea7da518619ed22",
+            "sessionId": 298651,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:00:53.761+00:00",
+                    "updatedDate": "2025-04-28T23:00:53.761+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008a56ea7da518619ed21",
+                    "priceId": 7,
+                    "ticketId": 21,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "21:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67fcb0fa87f15d5253ec4c9b",
+            "hallTitle": "Zal: 2",
+            "theatreId": "675aea0a2acad3103ea740db",
+            "theatreTitle": "Park Bulvar",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008b26ea7da518619ee2a",
+            "sessionId": 191437,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:01:06.288+00:00",
+                    "updatedDate": "2025-04-28T23:01:06.288+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008b26ea7da518619ee29",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:30:06.775+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.783+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c94e2f004915fa0f0399",
+                            "title": "VIP онлайн",
+                            "discountCode": 18,
+                            "discountValue": 17,
+                            "discountType": "DOUBLE",
+                            "max": 5,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "22:20",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67f77b727fbe427fd53beffc",
+            "hallTitle": "Zal: 4",
+            "theatreId": "675aea152acad3103ea749e6",
+            "theatreTitle": "Flame Towers",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008d16ea7da518619f0d6",
+            "sessionId": 98321,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:01:37.876+00:00",
+                    "updatedDate": "2025-04-28T23:01:37.876+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008d16ea7da518619f0d5",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "Standart",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "23:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "AZ",
+            "subtitle": "NONE",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "67bf1a73f08ff82cfff0aa35",
+            "hallTitle": "Zal: 4",
+            "theatreId": "675aea192acad3103ea74e2e",
+            "theatreTitle": "Sevinc Mall",
+            "onlineSale": true,
+            "active": true
+        },
+        {
+            "id": "681008f06ea7da518619f328",
+            "sessionId": 199013,
+            "price": [
+                {
+                    "createdDate": "2025-04-28T23:02:08.007+00:00",
+                    "updatedDate": "2025-04-28T23:02:08.007+00:00",
+                    "createdBy": null,
+                    "updatedBy": null,
+                    "id": "681008f06ea7da518619f327",
+                    "priceId": 1,
+                    "ticketId": 1,
+                    "name": "стандарт",
+                    "price": 7,
+                    "discounts": [
+                        {
+                            "createdDate": "2025-01-14T20:29:33.017+00:00",
+                            "updatedDate": "2025-04-28T23:02:59.721+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02bc",
+                            "title": "Семья онлайн",
+                            "discountCode": 16,
+                            "discountValue": 6,
+                            "discountType": "FAMILY",
+                            "max": 4,
+                            "min": 3
+                        },
+                        {
+                            "createdDate": "2025-01-14T20:29:33.968+00:00",
+                            "updatedDate": "2025-04-28T23:02:52.782+00:00",
+                            "createdBy": null,
+                            "updatedBy": "admin@admin.com",
+                            "id": "6786c92d2f004915fa0f02c5",
+                            "title": "Взрослый  онлайн",
+                            "discountCode": 15,
+                            "discountValue": 7,
+                            "discountType": "ADULT",
+                            "max": 10,
+                            "min": 1
+                        }
+                    ]
+                }
+            ],
+            "date": "2025-05-01T00:00:00.000+04:00",
+            "dateOfDay": "2025-05-01T00:00:00.000+04:00",
+            "time": "23:00",
+            "calendarDate": "2025-05-01T00:00:00.000+04:00",
+            "promoCodes": [],
+            "language": "RU",
+            "subtitle": "AZ",
+            "type": "_2D",
+            "hallType": "REGULAR",
+            "movie": {
+                "id": "6809f2e687f15d5253eeea86",
+                "name": "Patrul",
+                "description": "Bu layihə, yalnız Qazaxıstan ərazisində deyil, həm də ölkə sərhədlərindən kənarda uğurla tanınan ilk Qazaxıstan franşizasıdır. Bu dəfə \"Patrul\" kainatı Abay bölgəsində, Semey şəhərində cərəyan edir – ölkə Prezidenti rəsmi səfərlə buraya gəlməlidir. Qəhrəmanlarımız bütün gücləri ilə Prezidentin kortejinə düşməyə çalışırlar. Ancaq Şefin başqa planları var – o, Prezidentin müşayiəti üçün məsul şəxs təyin olunub və hər şeyin problemsiz keçməsini istəyir. Qəhrəmanlarımızın reputasiyasını nəzərə alaraq, Şef Serikə, Medetə, Oljasa, Edilə, İlyasa və Beksgə kortejdən uzaq durmağı əmr edir və bunun əvəzinə Semeyin elit polis əməkdaşları Dima və Renatı yanına çağıraraq kortejin rəhbəri təyin edir. Amma qəhrəmanlarımız bu arzudan imtina etmək istəmirlər, çünki Prezidentin müşayiəti hər bir polis işçisinin arzusu sayılır. Film, sıravi patrul və sahə polis əməkdaşlarının bu arzunu reallaşdırmaq üçün nələrə hazır olduqlarını göstərəcək. Eyni zamanda, milyonların sevimlisinə çevrilmiş qəhrəmanların gündəlik polis həyatında qarşılaşdıqları gülməli, gerçək və həyəcanlı hekayələrə də şahid olacağıq. Filmdə korrupsiya, məişət zorakılığı və xalqla hakimiyyət arasındakı münasibətlər kimi aktual və həssas ictimai problemlərə də toxunulur.",
+                "iticketLink": null,
+                "country": "Qazaxıstan",
+                "director": "Rustem Omarov",
+                "actors": [
+                    "Renat Muhambayev",
+                    "Tambi Masayev",
+                    "Imanbek",
+                    "Adilcan Şombalov"
+                ],
+                "genres": [
+                    {
+                        "id": "67729bcbbf13b4256e98c0ff",
+                        "title": "Komediya"
+                    }
+                ],
+                "movieId": 0,
+                "duration": 110,
+                "firstScreeningDate": "2025-05-01T00:00:00.000+04:00",
+                "lastScreeningDate": "2026-05-01T00:00:00.000+04:00",
+                "year": 2025,
+                "ageLimit": "SIXTEEN",
+                "languages": [
+                    "RU"
+                ],
+                "image": "1745482450359__.png",
+                "subtitles": [
+                    "AZ"
+                ],
+                "trailerUrl": "",
+                "youtubeUrl": "https://www.youtube.com/watch?v=ZpefcGA7-Zw",
+                "active": true,
+                "preSale": true
+            },
+            "hallId": "678761f1a6c6f668e693ef92",
+            "hallTitle": "Zal: 5",
+            "theatreId": "675aea102acad3103ea74531",
+            "theatreTitle": "Metro Park",
+            "onlineSale": true,
+            "active": true
+        }
     ]
-  },
-  {
-    "id": "2",
-
-    "title": "Sunlit loft with canal views",
-    "type": "Entire home in loft",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "district": "Jordaan brick lane"
-    },
-    "host": {
-      "name": "Eva",
-      "isSuperhost": true,
-      "yearsHosting": 4
-    },
-    "roomDetails": {
-      "bedType": "2 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 1, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Dedicated workspace",
-        "Heating",
-        "Balcony",
-        "Air conditioning",
-        "TV"
-      ],
-      "unavailable": ["Carbon monoxide alarm"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Loft",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-30" },
-    "rating": { "score": 4.81, "reviewsCount": 342 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 540,
-      "currency": "EUR",
-      "nights": 3,
-      "nightlyRate": 180
-    },
-    "stayDates": { "check_in": "2026-01-05", "check_out": "2026-01-08" },
-    "guestCount": 3,
-    "interaction": "Host responds within minutes via app",
-    "images": [
-      "https://example.com/img/2a.jpg",
-      "https://example.com/img/2b.jpg",
-      "https://example.com/img/2c.jpg"
-    ]
-  },
-  {
-    "id": "3",
-
-    "title": "Modern riverside apartment retreat",
-    "type": "Entire home in apartment",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany",
-      "district": "Friedrichshain creative hub"
-    },
-    "host": {
-      "name": "Lukas",
-      "isSuperhost": false,
-      "yearsHosting": 2
-    },
-    "roomDetails": {
-      "bedType": "1 king bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Heating",
-        "Balcony",
-        "Air conditioning",
-        "TV"
-      ],
-      "unavailable": ["Lock on bedroom door"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": true,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Luxury stay"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-20" },
-    "rating": { "score": 4.67, "reviewsCount": 198 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 360,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 180
-    },
-    "stayDates": { "check_in": "2026-02-10", "check_out": "2026-02-12" },
-    "guestCount": 2,
-    "interaction": "Host available mornings and evenings",
-    "images": [
-      "https://example.com/img/3a.jpg",
-      "https://example.com/img/3b.jpg",
-      "https://example.com/img/3c.jpg"
-    ]
-  },
-  {
-    "id": "4",
-
-    "title": "Charming attic studio under beams",
-    "type": "Room in loft",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Lisbon",
-      "country": "Portugal",
-      "district": "Alfama winding alleys"
-    },
-    "host": {
-      "name": "Marta",
-      "isSuperhost": true,
-      "yearsHosting": 5
-    },
-    "roomDetails": {
-      "bedType": "1 double bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Heating", "Luggage dropoff allowed"],
-      "unavailable": ["Carbon monoxide alarm", "Bathtub"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Eco-friendly"],
-    "propertyType": "Loft",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-25" },
-    "rating": { "score": 4.52, "reviewsCount": 145 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 140,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 70
-    },
-    "stayDates": { "check_in": "2026-01-12", "check_out": "2026-01-14" },
-    "guestCount": 1,
-    "interaction": "Host leaves local cafe tips",
-    "images": [
-      "https://example.com/img/4a.jpg",
-      "https://example.com/img/4b.jpg",
-      "https://example.com/img/4c.jpg"
-    ]
-  },
-  {
-    "id": "5",
-
-    "title": "Seaside balcony apartment breeze",
-    "type": "Entire home in apartment",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Barcelona",
-      "country": "Spain",
-      "district": "Barceloneta sea front"
-    },
-    "host": {
-      "name": "Jordi",
-      "isSuperhost": true,
-      "yearsHosting": 7
-    },
-    "roomDetails": {
-      "bedType": "2 double bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 2, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Air conditioning",
-        "Balcony",
-        "TV",
-        "Heating"
-      ],
-      "unavailable": ["Lock on bedroom door"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Pet-friendly"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-05" },
-    "rating": { "score": 4.88, "reviewsCount": 610 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 720,
-      "currency": "EUR",
-      "nights": 4,
-      "nightlyRate": 180
-    },
-    "stayDates": { "check_in": "2026-03-01", "check_out": "2026-03-05" },
-    "guestCount": 4,
-    "interaction": "Host offers sailing recommendations",
-    "images": [
-      "https://example.com/img/5a.jpg",
-      "https://example.com/img/5b.jpg",
-      "https://example.com/img/5c.jpg"
-    ]
-  },
-  {
-    "id": "6",
-
-    "title": "Rustic mountain cabin hideaway",
-    "type": "Entire home in cabin",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Chamonix",
-      "country": "France",
-      "district": "Alpine forest edge"
-    },
-    "host": {
-      "name": "René",
-      "isSuperhost": false,
-      "yearsHosting": 3
-    },
-    "roomDetails": {
-      "bedType": "3 single bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 1, "beds": 3 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Heating",
-        "Indoor fireplace: wood-burning",
-        "Luggage dropoff allowed"
-      ],
-      "unavailable": ["Air conditioning", "Wifi"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Top 10% of homes"],
-    "propertyType": "Cabin",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-18" },
-    "rating": { "score": 4.41, "reviewsCount": 120 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 450,
-      "currency": "USD",
-      "nights": 3,
-      "nightlyRate": 150
-    },
-    "stayDates": { "check_in": "2026-01-20", "check_out": "2026-01-23" },
-    "guestCount": 3,
-    "interaction": "Host reachable by phone only",
-    "images": [
-      "https://example.com/img/6a.jpg",
-      "https://example.com/img/6b.jpg",
-      "https://example.com/img/6c.jpg"
-    ]
-  },
-  {
-    "id": "7",
-
-    "title": "Elegant townhouse library suite",
-    "type": "Private suite in house",
-    "typeOfPlace": "Private suite",
-    "location": {
-      "city": "London",
-      "country": "United Kingdom",
-      "district": "Bloomsbury literary block"
-    },
-    "host": {
-      "name": "Amelia",
-      "isSuperhost": true,
-      "yearsHosting": 9
-    },
-    "roomDetails": {
-      "bedType": "1 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Dedicated workspace",
-        "Heating",
-        "TV",
-        "Bathtub"
-      ],
-      "unavailable": ["Free washer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": true,
-        "showerGrabBar": true,
-        "stepFreeShower": true,
-        "showerOrBathChair": true
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": true }
-    },
-    "standoutStays": ["Luxury stay"],
-    "propertyType": "House",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-01" },
-    "rating": { "score": 4.97, "reviewsCount": 890 },
-    "badges": ["Superhost", "Verified"],
-    "price": {
-      "total": 820,
-      "currency": "GBP",
-      "nights": 4,
-      "nightlyRate": 205
-    },
-    "stayDates": { "check_in": "2026-04-10", "check_out": "2026-04-14" },
-    "guestCount": 2,
-    "interaction": "Host provides daily check-ins",
-    "images": [
-      "https://example.com/img/7a.jpg",
-      "https://example.com/img/7b.jpg",
-      "https://example.com/img/7c.jpg"
-    ]
-  },
-  {
-    "id": "8",
-
-    "title": "Minimalist studio next to metro",
-    "type": "Room in apartment",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Madrid",
-      "country": "Spain",
-      "district": "Lavapiés cultural street"
-    },
-    "host": {
-      "name": "Sergio",
-      "isSuperhost": false,
-      "yearsHosting": 1
-    },
-    "roomDetails": {
-      "bedType": "1 single bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Dedicated workspace", "Heating"],
-      "unavailable": ["Kitchen", "Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Pet-friendly"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-28" },
-    "rating": { "score": 4.13, "reviewsCount": 75 },
-    "badges": ["New"],
-    "price": {
-      "total": 90,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 45
-    },
-    "stayDates": { "check_in": "2026-01-18", "check_out": "2026-01-20" },
-    "guestCount": 1,
-    "interaction": "Host replies evenings only",
-    "images": [
-      "https://example.com/img/8a.jpg",
-      "https://example.com/img/8b.jpg",
-      "https://example.com/img/8c.jpg"
-    ]
-  },
-  {
-    "id": "9",
-
-    "title": "Countryside villa olive groves",
-    "type": "Entire home in villa",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Florence",
-      "country": "Italy",
-      "district": "Tuscan hillside lane"
-    },
-    "host": {
-      "name": "Giulia",
-      "isSuperhost": true,
-      "yearsHosting": 8
-    },
-    "roomDetails": {
-      "bedType": "3 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 3, "bathrooms": 3, "beds": 3 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Heating",
-        "Balcony",
-        "Air conditioning",
-        "TV",
-        "Bathtub",
-        "Dedicated workspace"
-      ],
-      "unavailable": ["Free washer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": true,
-        "showerGrabBar": true,
-        "stepFreeShower": true,
-        "showerOrBathChair": true
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Luxury stay"],
-    "propertyType": "Villa",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-15" },
-    "rating": { "score": 4.92, "reviewsCount": 455 },
-    "badges": ["Superhost", "Verified"],
-    "price": {
-      "total": 1600,
-      "currency": "EUR",
-      "nights": 4,
-      "nightlyRate": 400
-    },
-    "stayDates": { "check_in": "2026-05-02", "check_out": "2026-05-06" },
-    "guestCount": 6,
-    "interaction": "Host arranges local chef upon request",
-    "images": [
-      "https://example.com/img/9a.jpg",
-      "https://example.com/img/9b.jpg",
-      "https://example.com/img/9c.jpg"
-    ]
-  },
-  {
-    "id": "10",
-
-    "title": "Cozy garden cottage retreat",
-    "type": "Entire home in house",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Dublin",
-      "country": "Ireland",
-      "district": "Village green path"
-    },
-    "host": {
-      "name": "Niamh",
-      "isSuperhost": false,
-      "yearsHosting": 2
-    },
-    "roomDetails": {
-      "bedType": "2 single bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 1, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Heating",
-        "Indoor fireplace: wood-burning",
-        "Luggage dropoff allowed"
-      ],
-      "unavailable": ["Air conditioning", "Wifi"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Eco-friendly"],
-    "propertyType": "House",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-22" },
-    "rating": { "score": 4.35, "reviewsCount": 88 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 300,
-      "currency": "EUR",
-      "nights": 3,
-      "nightlyRate": 100
-    },
-    "stayDates": { "check_in": "2026-02-05", "check_out": "2026-02-08" },
-    "guestCount": 2,
-    "interaction": "Host leaves keys in lockbox",
-    "images": [
-      "https://example.com/img/10a.jpg",
-      "https://example.com/img/10b.jpg",
-      "https://example.com/img/10c.jpg"
-    ]
-  },
-  {
-    "id": "11",
-
-    "title": "Skyline penthouse glass walls",
-    "type": "Entire home in apartment",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany",
-      "district": "Financial district terrace"
-    },
-    "host": {
-      "name": "Max",
-      "isSuperhost": true,
-      "yearsHosting": 5
-    },
-    "roomDetails": {
-      "bedType": "1 king bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 2, "beds": 1 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Air conditioning",
-        "Balcony",
-        "TV",
-        "Dedicated workspace"
-      ],
-      "unavailable": ["Free washer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": false,
-        "showerGrabBar": true,
-        "stepFreeShower": true,
-        "showerOrBathChair": true
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": true }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-10" },
-    "rating": { "score": 4.85, "reviewsCount": 390 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 950,
-      "currency": "EUR",
-      "nights": 5,
-      "nightlyRate": 190
-    },
-    "stayDates": { "check_in": "2026-03-15", "check_out": "2026-03-20" },
-    "guestCount": 2,
-    "interaction": "Host schedules concierge service",
-    "images": [
-      "https://example.com/img/11a.jpg",
-      "https://example.com/img/11b.jpg",
-      "https://example.com/img/11c.jpg"
-    ]
-  },
-  {
-    "id": "12",
-
-    "title": "Historic canal house room",
-    "type": "Room in house",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Amsterdam",
-      "country": "Netherlands",
-      "district": "Prinsengracht quiet bend"
-    },
-    "host": {
-      "name": "Pieter",
-      "isSuperhost": false,
-      "yearsHosting": 3
-    },
-    "roomDetails": {
-      "bedType": "1 double bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Heating", "Luggage dropoff allowed"],
-      "unavailable": ["Kitchen", "Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Pet-friendly"],
-    "propertyType": "House",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-27" },
-    "rating": { "score": 4.29, "reviewsCount": 132 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 118,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 59
-    },
-    "stayDates": { "check_in": "2026-02-02", "check_out": "2026-02-04" },
-    "guestCount": 1,
-    "interaction": "Host leaves printed guide",
-    "images": [
-      "https://example.com/img/12a.jpg",
-      "https://example.com/img/12b.jpg",
-      "https://example.com/img/12c.jpg"
-    ]
-  },
-  {
-    "id": "13",
-
-    "title": "Urban micro-studio efficiency",
-    "type": "Shared room in apartment",
-    "typeOfPlace": "Shared room",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany",
-      "district": "Kreuzberg arts block"
-    },
-    "host": {
-      "name": "Nina",
-      "isSuperhost": false,
-      "yearsHosting": 1
-    },
-    "roomDetails": {
-      "bedType": "1 single bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Heating"],
-      "unavailable": ["Kitchen", "Dedicated workspace"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Eco-friendly"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-03" },
-    "rating": { "score": 4.05, "reviewsCount": 54 },
-    "badges": ["New"],
-    "price": {
-      "total": 70,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 35
-    },
-    "stayDates": { "check_in": "2026-01-28", "check_out": "2026-01-30" },
-    "guestCount": 1,
-    "interaction": "Host communicates via chat only",
-    "images": [
-      "https://example.com/img/13a.jpg",
-      "https://example.com/img/13b.jpg",
-      "https://example.com/img/13c.jpg"
-    ]
-  },
-  {
-    "id": "14",
-
-    "title": "Beachfront glass bungalow",
-    "type": "Entire home in house",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Nice",
-      "country": "France",
-      "district": "Promenade azure strip"
-    },
-    "host": {
-      "name": "Claire",
-      "isSuperhost": true,
-      "yearsHosting": 6
-    },
-    "roomDetails": {
-      "bedType": "2 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 2, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Air conditioning",
-        "Balcony",
-        "TV",
-        "Dedicated workspace",
-        "Bathtub"
-      ],
-      "unavailable": ["Free dryer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": true,
-        "showerGrabBar": true,
-        "stepFreeShower": true,
-        "showerOrBathChair": true
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Luxury stay", "Top 10% of homes"],
-    "propertyType": "House",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-08" },
-    "rating": { "score": 4.95, "reviewsCount": 710 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 1300,
-      "currency": "EUR",
-      "nights": 5,
-      "nightlyRate": 260
-    },
-    "stayDates": { "check_in": "2026-06-10", "check_out": "2026-06-15" },
-    "guestCount": 4,
-    "interaction": "Host offers airport pickup",
-    "images": [
-      "https://example.com/img/14a.jpg",
-      "https://example.com/img/14b.jpg",
-      "https://example.com/img/14c.jpg"
-    ]
-  },
-  {
-    "id": "15",
-
-    "title": "Forest eco yurt experience",
-    "type": "Shared room in cabin",
-    "typeOfPlace": "Shared room",
-    "location": {
-      "city": "Ljubljana",
-      "country": "Slovenia",
-      "district": "Woodland clearing trail"
-    },
-    "host": {
-      "name": "Ana",
-      "isSuperhost": false,
-      "yearsHosting": 2
-    },
-    "roomDetails": {
-      "bedType": "2 single bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 2 }
-    },
-    "amenities": {
-      "available": ["Heating", "Luggage dropoff allowed"],
-      "unavailable": ["Wifi", "Kitchen", "Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Eco-friendly"],
-    "propertyType": "Cabin",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-29" },
-    "rating": { "score": 3.98, "reviewsCount": 61 },
-    "badges": ["New"],
-    "price": {
-      "total": 110,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 55
-    },
-    "stayDates": { "check_in": "2026-05-04", "check_out": "2026-05-06" },
-    "guestCount": 2,
-    "interaction": "Host onsite mornings",
-    "images": [
-      "https://example.com/img/15a.jpg",
-      "https://example.com/img/15b.jpg",
-      "https://example.com/img/15c.jpg"
-    ]
-  },
-  {
-    "id": "16",
-
-    "title": "Rooftop terrace city lights",
-    "type": "Private suite in apartment",
-    "typeOfPlace": "Private suite",
-    "location": {
-      "city": "Rome",
-      "country": "Italy",
-      "district": "Trastevere cobbled lane"
-    },
-    "host": {
-      "name": "Luca",
-      "isSuperhost": true,
-      "yearsHosting": 5
-    },
-    "roomDetails": {
-      "bedType": "1 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Balcony",
-        "Air conditioning",
-        "Dedicated workspace",
-        "TV"
-      ],
-      "unavailable": ["Free washer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": false,
-        "showerGrabBar": true,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-02" },
-    "rating": { "score": 4.74, "reviewsCount": 265 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 460,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 230
-    },
-    "stayDates": { "check_in": "2026-03-22", "check_out": "2026-03-24" },
-    "guestCount": 2,
-    "interaction": "Host texts restaurant lists",
-    "images": [
-      "https://example.com/img/16a.jpg",
-      "https://example.com/img/16b.jpg",
-      "https://example.com/img/16c.jpg"
-    ]
-  },
-  {
-    "id": "17",
-
-    "title": "Lakeside chalet sunrise deck",
-    "type": "Entire home in cabin",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Zurich",
-      "country": "Switzerland",
-      "district": "Shoreline pine belt"
-    },
-    "host": {
-      "name": "Sabine",
-      "isSuperhost": true,
-      "yearsHosting": 7
-    },
-    "roomDetails": {
-      "bedType": "2 king bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "Indoor fireplace: wood-burning",
-      "bathtub": true,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 2, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Heating",
-        "Indoor fireplace: wood-burning",
-        "Balcony",
-        "Bathtub"
-      ],
-      "unavailable": ["Air conditioning", "Wifi"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Top 10% of homes"],
-    "propertyType": "Cabin",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-14" },
-    "rating": { "score": 4.69, "reviewsCount": 301 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 780,
-      "currency": "CHF",
-      "nights": 3,
-      "nightlyRate": 260
-    },
-    "stayDates": { "check_in": "2026-04-08", "check_out": "2026-04-11" },
-    "guestCount": 4,
-    "interaction": "Host stops by on arrival",
-    "images": [
-      "https://example.com/img/17a.jpg",
-      "https://example.com/img/17b.jpg",
-      "https://example.com/img/17c.jpg"
-    ]
-  },
-  {
-    "id": "18",
-
-    "title": "Art deco downtown suite",
-    "type": "Private suite in condo",
-    "typeOfPlace": "Private suite",
-    "location": {
-      "city": "Brussels",
-      "country": "Belgium",
-      "district": "Grand Place side street"
-    },
-    "host": {
-      "name": "Elise",
-      "isSuperhost": false,
-      "yearsHosting": 2
-    },
-    "roomDetails": {
-      "bedType": "1 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Dedicated workspace", "Heating", "TV"],
-      "unavailable": ["Kitchen", "Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": true,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Condo",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-06" },
-    "rating": { "score": 4.56, "reviewsCount": 210 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 300,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 150
-    },
-    "stayDates": { "check_in": "2026-02-14", "check_out": "2026-02-16" },
-    "guestCount": 2,
-    "interaction": "Host chats through messaging",
-    "images": [
-      "https://example.com/img/18a.jpg",
-      "https://example.com/img/18b.jpg",
-      "https://example.com/img/18c.jpg"
-    ]
-  },
-  {
-    "id": "19",
-
-    "title": "Clifftop panoramic villa",
-    "type": "Entire home in villa",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Santorini",
-      "country": "Greece",
-      "district": "Caldera white ridge"
-    },
-    "host": {
-      "name": "Dimitra",
-      "isSuperhost": true,
-      "yearsHosting": 9
-    },
-    "roomDetails": {
-      "bedType": "2 king bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 2, "bathrooms": 2, "beds": 2 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Air conditioning",
-        "Balcony",
-        "Bathtub",
-        "Dedicated workspace",
-        "TV"
-      ],
-      "unavailable": ["Free washer – In unit"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": false,
-        "showerGrabBar": true,
-        "stepFreeShower": false,
-        "showerOrBathChair": true
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Luxury stay"],
-    "propertyType": "Villa",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-09" },
-    "rating": { "score": 4.9, "reviewsCount": 512 },
-    "badges": ["Superhost", "Verified"],
-    "price": {
-      "total": 2100,
-      "currency": "EUR",
-      "nights": 5,
-      "nightlyRate": 420
-    },
-    "stayDates": { "check_in": "2026-07-01", "check_out": "2026-07-06" },
-    "guestCount": 5,
-    "interaction": "Host arranges boat tours",
-    "images": [
-      "https://example.com/img/19a.jpg",
-      "https://example.com/img/19b.jpg",
-      "https://example.com/img/19c.jpg"
-    ]
-  },
-  {
-    "id": "20",
-
-    "title": "Converted warehouse artist loft",
-    "type": "Entire home in loft",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Manchester",
-      "country": "United Kingdom",
-      "district": "Northern Quarter block"
-    },
-    "host": {
-      "name": "Tom",
-      "isSuperhost": false,
-      "yearsHosting": 3
-    },
-    "roomDetails": {
-      "bedType": "1 king bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Kitchen", "Wifi", "Dedicated workspace", "Heating"],
-      "unavailable": ["Air conditioning", "Bathtub"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Loft",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-26" },
-    "rating": { "score": 4.61, "reviewsCount": 177 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 380,
-      "currency": "GBP",
-      "nights": 4,
-      "nightlyRate": 95
-    },
-    "stayDates": { "check_in": "2026-02-25", "check_out": "2026-03-01" },
-    "guestCount": 2,
-    "interaction": "Host replies within one hour",
-    "images": [
-      "https://example.com/img/20a.jpg",
-      "https://example.com/img/20b.jpg",
-      "https://example.com/img/20c.jpg"
-    ]
-  },
-  {
-    "id": "21",
-
-    "title": "Harbor view compact studio",
-    "type": "Room in condo",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Lisbon",
-      "country": "Portugal",
-      "district": "Cais do Sodré quay"
-    },
-    "host": {
-      "name": "João",
-      "isSuperhost": true,
-      "yearsHosting": 4
-    },
-    "roomDetails": {
-      "bedType": "1 double bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Dedicated workspace", "Air conditioning"],
-      "unavailable": ["Kitchen", "Bathtub"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Pet-friendly"],
-    "propertyType": "Condo",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-30" },
-    "rating": { "score": 4.47, "reviewsCount": 201 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 150,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 75
-    },
-    "stayDates": { "check_in": "2026-01-07", "check_out": "2026-01-09" },
-    "guestCount": 1,
-    "interaction": "Host offers cafe discount",
-    "images": [
-      "https://example.com/img/21a.jpg",
-      "https://example.com/img/21b.jpg",
-      "https://example.com/img/21c.jpg"
-    ]
-  },
-  {
-    "id": "22",
-
-    "title": "Alley courtyard heritage flat",
-    "type": "Entire home in apartment",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Prague",
-      "country": "Czech Republic",
-      "district": "Old Town courtyard"
-    },
-    "host": {
-      "name": "Katerina",
-      "isSuperhost": false,
-      "yearsHosting": 3
-    },
-    "roomDetails": {
-      "bedType": "1 queen bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Kitchen", "Wifi", "Heating", "Bathtub", "TV"],
-      "unavailable": ["Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Top 10% of homes"],
-    "propertyType": "Apartment",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-04" },
-    "rating": { "score": 4.63, "reviewsCount": 289 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 260,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 130
-    },
-    "stayDates": { "check_in": "2026-02-21", "check_out": "2026-02-23" },
-    "guestCount": 2,
-    "interaction": "Host meets for keys midday",
-    "images": [
-      "https://example.com/img/22a.jpg",
-      "https://example.com/img/22b.jpg",
-      "https://example.com/img/22c.jpg"
-    ]
-  },
-  {
-    "id": "23",
-
-    "title": "Suburban family home spacious",
-    "type": "Entire home in house",
-    "typeOfPlace": "Entire home",
-    "location": {
-      "city": "Munich",
-      "country": "Germany",
-      "district": "Residential tree avenue"
-    },
-    "host": {
-      "name": "Karl",
-      "isSuperhost": false,
-      "yearsHosting": 4
-    },
-    "roomDetails": {
-      "bedType": "4 single bed(s)",
-      "bathroomType": "Private bathroom",
-      "fireplace": "None",
-      "bathtub": true,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 4, "bathrooms": 2, "beds": 4 }
-    },
-    "amenities": {
-      "available": [
-        "Kitchen",
-        "Wifi",
-        "Heating",
-        "TV",
-        "Dedicated workspace",
-        "Bathtub"
-      ],
-      "unavailable": ["Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Pet-friendly"],
-    "propertyType": "House",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-12" },
-    "rating": { "score": 4.58, "reviewsCount": 333 },
-    "badges": ["Verified"],
-    "price": {
-      "total": 950,
-      "currency": "EUR",
-      "nights": 5,
-      "nightlyRate": 190
-    },
-    "stayDates": { "check_in": "2026-04-02", "check_out": "2026-04-07" },
-    "guestCount": 6,
-    "interaction": "Host available on call",
-    "images": [
-      "https://example.com/img/23a.jpg",
-      "https://example.com/img/23b.jpg",
-      "https://example.com/img/23c.jpg"
-    ]
-  },
-  {
-    "id": "24",
-
-    "title": "Designer micro-flat station edge",
-    "type": "Room in condo",
-    "typeOfPlace": "Room",
-    "location": {
-      "city": "Vienna",
-      "country": "Austria",
-      "district": "Ringstrasse side lane"
-    },
-    "host": {
-      "name": "Sophie",
-      "isSuperhost": true,
-      "yearsHosting": 5
-    },
-    "roomDetails": {
-      "bedType": "1 single bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": true,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 1 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Dedicated workspace", "Heating", "TV"],
-      "unavailable": ["Kitchen", "Air conditioning"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": true,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": true
-      },
-      "bedroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true
-      },
-      "bathroom": {
-        "stepFreeAccess": true,
-        "entranceWiderThan32Inches": true,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": true,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Great for remote work"],
-    "propertyType": "Condo",
-    "bookingOptions": { "freeCancellationBefore": "2025-12-07" },
-    "rating": { "score": 4.71, "reviewsCount": 268 },
-    "badges": ["Superhost"],
-    "price": {
-      "total": 160,
-      "currency": "EUR",
-      "nights": 2,
-      "nightlyRate": 80
-    },
-    "stayDates": { "check_in": "2026-01-30", "check_out": "2026-02-01" },
-    "guestCount": 1,
-    "interaction": "Host answers quickly in app",
-    "images": [
-      "https://example.com/img/24a.jpg",
-      "https://example.com/img/24b.jpg",
-      "https://example.com/img/24c.jpg"
-    ]
-  },
-  {
-    "id": "25",
-
-    "title": "Hilltop sunrise dome stay",
-    "type": "Shared room in loft",
-    "typeOfPlace": "Shared room",
-    "location": {
-      "city": "Edinburgh",
-      "country": "United Kingdom",
-      "district": "Old Town ridge"
-    },
-    "host": {
-      "name": "Fiona",
-      "isSuperhost": false,
-      "yearsHosting": 1
-    },
-    "roomDetails": {
-      "bedType": "2 single bed(s)",
-      "bathroomType": "Shared bathroom",
-      "fireplace": "None",
-      "bathtub": false,
-      "workspace": false,
-      "roomsAndBeds": { "bedrooms": 1, "bathrooms": 1, "beds": 2 }
-    },
-    "amenities": {
-      "available": ["Wifi", "Heating", "Luggage dropoff allowed"],
-      "unavailable": ["Kitchen", "Air conditioning", "Dedicated workspace"]
-    },
-    "accessibilityFeatures": {
-      "guestEntranceAndParking": {
-        "stepFreeAccess": false,
-        "disabledParkingSpot": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bedroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false
-      },
-      "bathroom": {
-        "stepFreeAccess": false,
-        "entranceWiderThan32Inches": false,
-        "toiletGrabBar": false,
-        "showerGrabBar": false,
-        "stepFreeShower": false,
-        "showerOrBathChair": false
-      },
-      "adaptiveEquipment": { "ceilingOrMobileHoist": false }
-    },
-    "standoutStays": ["Eco-friendly"],
-    "propertyType": "Loft",
-    "bookingOptions": { "freeCancellationBefore": "2025-11-24" },
-    "rating": { "score": 4.11, "reviewsCount": 93 },
-    "badges": ["New"],
-    "price": {
-      "total": 95,
-      "currency": "GBP",
-      "nights": 2,
-      "nightlyRate": 47.5
-    },
-    "stayDates": { "check_in": "2026-02-11", "check_out": "2026-02-13" },
-    "guestCount": 2,
-    "interaction": "Host sends digital guidebook",
-    "images": [
-      "https://example.com/img/25a.jpg",
-      "https://example.com/img/25b.jpg",
-      "https://example.com/img/25c.jpg"
-    ]
-  }
-]
+}
